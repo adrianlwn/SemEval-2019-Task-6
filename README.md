@@ -1,8 +1,8 @@
-# Offensive Tweets Classification - Codalab Challenge
+# Offensive Tweets Classification - OffensEval 2019 - Codalab Challenge
 This Challenge was completed in the context of the NLP module from Imperial College taught by Lucia Specia. 
 
 ## Creators of the Project :
-Adrian Löwenstein - Mihai Lung - Pierre-Louis Saint
+[Adrian Löwenstein](https://www.linkedin.com/in/adrian-löwenstein/) - [Mihai Lung](https://www.linkedin.com/in/mihailung/) - Pierre-Louis Saint
 
 ## Proposed Implementation : 
 The Implementation proposed during this project relies on the GloVe word embedding, strong data processing and different networks such as GRU, LTSM or CNN. 
@@ -34,3 +34,11 @@ Participants are allowed to use external resources and other datasets for this t
 This repository contains the final submission of the project. 
 - The report explaining the main steps and architectures of the network used
 - The Jupyter Notebook containing all the code for implementing and training the classifiers. 
+
+## Results of the Competition : 
+
+- Sub-task A - Rank : 8th - F1 Score : 0.748752209
+- Sub-task B - Rank : 1st - F1 Score : 0.715679443
+- Sub-task C - Rank : 1st - F1 Score : 0.580794253
+    
+
