@@ -37,7 +37,7 @@ This repository contains the final submission of the project.
 
 ## Results of the Competition : 
 
-- Sub-task A - Rank : 8th - F1 Score : 0.748752209
+- Sub-task A - Rank : 20th - F1 Score : 0.748752209
 - Sub-task B - Rank : 1st - F1 Score : 0.715679443
 - Sub-task C - Rank : 1st - F1 Score : 0.580794253
     
