@@ -30,15 +30,42 @@ The data is retrieved from social media and distributed in tab separated format.
 Participants are allowed to use external resources and other datasets for this task. Please indicate which resources were used when submitting your results.
 
 
-## Description of the Content of this Repo : 
+## Description of the Content of this Repo 
 This repository contains the final submission of the project. 
 - The report explaining the main steps and architectures of the network used
 - The Jupyter Notebook containing all the code for implementing and training the classifiers. 
 
-## Results of the Competition : 
+## Results
 
-- Sub-task A - Rank : 20th - F1 Score : 0.748752209
+### Worldwide Results of the Competition : 
+
+- Sub-task A - Rank : 62nd - F1 Score : 0.748752209
+- Sub-task B - Rank : 5th - F1 Score : 0.715679443
+- Sub-task C - Rank : 11th - F1 Score : 0.580794253
+
+### Imperial College Results of the Competiton : 
+
+
+- Sub-task A - Rank : 21st - F1 Score : 0.748752209
 - Sub-task B - Rank : 1st - F1 Score : 0.715679443
 - Sub-task C - Rank : 1st - F1 Score : 0.580794253
+
+### Best Performing Implementation :
+
+The classifier that performed the best accross the different tasks was the Convolutional Neural Network (CNN)
+
+
+### Confusion Matrix for each subtask 
+
+
+<img src="https://github.com/adrianlwn/SemEval-2019-Task-6/raw/master/images/Sub-task_A%2C_adrianlwn_CodaLab_549184.png" width="280" height="280"> <img src="https://github.com/adrianlwn/SemEval-2019-Task-6/raw/master/images/Sub-task_B%2C_adrianlwn_CodaLab_549189.png" width="280" height="280"> <img src="https://github.com/adrianlwn/SemEval-2019-Task-6/raw/master/images/Sub-task_C%2C_adrianlwn_CodaLab_549197.png" width="280" height="280">
+
+
+
+
+
+
+
+
     
 
