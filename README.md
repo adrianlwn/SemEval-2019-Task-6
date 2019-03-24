@@ -39,9 +39,16 @@ This repository contains the final submission of the project.
 
 ### Worldwide Results of the Competition : 
 
-- Sub-task A - Rank : 62th - F1 Score : 0.748752209
+- Sub-task A - Rank : 62nd - F1 Score : 0.748752209
 - Sub-task B - Rank : 5th - F1 Score : 0.715679443
-- Sub-task C - Rank : 11st - F1 Score : 0.580794253
+- Sub-task C - Rank : 11th - F1 Score : 0.580794253
+
+### Imperial College Results of the Competiton : 
+
+
+- Sub-task A - Rank : 21st - F1 Score : 0.748752209
+- Sub-task B - Rank : 1st - F1 Score : 0.715679443
+- Sub-task C - Rank : 1st - F1 Score : 0.580794253
 
 ### Best Performing Implementation :
 
