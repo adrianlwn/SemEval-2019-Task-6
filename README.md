@@ -2,7 +2,7 @@
 This Challenge was completed in the context of the NLP module from Imperial College taught by Lucia Specia. 
 
 ## Creators of the Project :
-[Adrian Löwenstein](https://www.linkedin.com/in/adrian-löwenstein/) - [Mihai Lung](https://www.linkedin.com/in/mihailung/) - Pierre-Louis Saint
+[Adrian Löwenstein](https://www.linkedin.com/in/adrian-löwenstein/) - [Mihai Lung](https://www.linkedin.com/in/mihailung/) - [Pierre-Louis Saint](https://github.com/p-saint) 
 
 ## Proposed Implementation : 
 The Implementation proposed during this project relies on the GloVe word embedding, strong data processing and different networks such as GRU, LTSM or CNN. 
